@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leftfont{
+    font-size: xx-large;
+}
+.login{
+        font-size: medium;
+}
+.smallfont1{
+    font-size: x-large;
+}
